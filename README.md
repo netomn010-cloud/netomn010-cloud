@@ -36,7 +36,8 @@ Meu objetivo é continuar evoluindo, desenvolver novos projetos e conquistar min
 
 ### ⏱️ Cronômetro
 
-Projeto desenvolvido para praticar **HTML, CSS e JavaScript**, criando um cronômetro funcional e interativo.
+Projeto desenvolvido para praticar HTML, CSS e JavaScript, criando um cronômetro funcional e interativo.
+
 
 🔗 [Ver projeto](https://github.com/netomn010-cloud/Cronometro)
 
