@@ -1,12 +1,10 @@
 <div align="center">
 
-# 👨‍💻 Manoel Neto
+<img src="./15D05FC3-12F7-4C52-BF27-221109CFD4DB (1).png" width="100%">
 
-### 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+</div>
+<div align="center">
 
-💻 Desenvolvendo meus conhecimentos em programação e desenvolvimento de software
-
-🌱 Sempre aprendendo e evoluindo
 
 </div>
 
