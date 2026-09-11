@@ -5,14 +5,14 @@
 ### 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
 💻 Desenvolvendo meus conhecimentos em programação e desenvolvimento de software
-🚀 Criando projetos para praticar e evoluir
-📚 Sempre aprendendo uma nova tecnologia
+
+🌱 Sempre aprendendo e evoluindo
 
 </div>
 
 ---
 
-## 🧑‍💻 Sobre mim
+## 👨‍💻 Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou iniciando minha jornada na área de tecnologia.
 
@@ -26,19 +26,20 @@ Meu objetivo é continuar evoluindo, desenvolver novos projetos e conquistar min
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![HTML](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </div>
 
 ---
+
 ## 🚀 Meus Projetos
 
 ### ⏱️ Cronômetro
 
-Projeto desenvolvido para praticar HTML, CSS e JavaScript, criando um cronômetro funcional e interativo.
+Projeto desenvolvido para praticar **HTML, CSS e JavaScript**, criando um cronômetro funcional e interativo.
 
 🔗 [Ver projeto](https://github.com/netomn010-cloud/Cronometro)
 
@@ -48,29 +49,18 @@ Projeto desenvolvido para praticar programação e criar funcionalidades para or
 
 🔗 [Ver projeto](https://github.com/netomn010-cloud/Lista-de-tarefa)
 
-
----
-
-## 📊 Estatísticas
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=netomn010-cloud&show_icons=true&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=netomn010-cloud&theme=tokyonight&hide_border=true)
-
-</div>
-
 ---
 
 ## 🎯 Objetivo
 
-Continuar aprendendo, desenvolver novos projetos, aprimorar minhas habilidades em programação e conquistar minha primeira oportunidade na área de **Tecnologia da Informação e Desenvolvimento de Software**.
+Continuar aprendendo, desenvolver novos projetos e conquistar minha primeira oportunidade na área de Tecnologia da Informação.
 
 ---
 
 <div align="center">
 
-### 💙 Sempre aprendendo. Sempre evoluindo. 🚀
+💻 **Análise e Desenvolvimento de Sistemas**
+
+🌱 **Sempre aprendendo e evoluindo**
 
 </div>
